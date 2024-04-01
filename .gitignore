@@ -1,0 +1,14 @@
+
+MarchingCube/.idea/
+
+MarchingCube/Library/
+
+MarchingCube/obj/
+
+MarchingCube/Logs/
+
+MarchingCube/Temp/
+
+MarchingCube/Assembly-CSharp.csproj
+
+MarchingCube/MarchingCube.sln
